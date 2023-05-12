@@ -116,13 +116,13 @@ export default function Home() {
         <article className={styles.videos}>
           <div>
             <div >
-              <iframe className={styles.bordeVideo} width="560" height="315" src="https://www.youtube.com/embed/zqQcSAXy1VY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe className={styles.bordeVideo} width="560" height="315" src="https://youtu.be/DRUXozv_bE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <div className={styles.bordeVideo}  >
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/1Z4y9bGA_2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+              <iframe width="560" height="315" src="https://youtu.be/quVnM5gUA0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
             <div >
-            <iframe className={styles.bordeVideo} width="560" height="315" src="https://www.youtube.com/embed/ib1V_Z9sjHQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            <iframe className={styles.bordeVideo} width="560" height="315" src="https://youtu.be/dNWZx7k7ByU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
           </div> 
         </article>
