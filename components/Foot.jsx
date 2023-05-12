@@ -19,9 +19,10 @@ export default function Foot() {
         </article>
         <article className={styles.zona2Contactos}>
           <ul className={styles.zonaEnlaces}>
-              <Link className={styles.enlace} href="/contacto">Política de privacidad</Link>
-              <Link className={styles.enlace} href="/contacto">Aviso Legal</Link>
-              <Link className={styles.enlace} href="/contacto">Política de Cookies</Link>
+            <Link className={styles.enlace} href="/condiciones">Condiciones de uso</Link>
+            <Link className={styles.enlace} href="/comentarios">Comentarios</Link>
+            <Link className={styles.enlace} href="/medidas">Medidas de seguridad</Link>
+            <Link className={styles.enlace} href="/cookies">Política de cookies</Link>
           </ul>
         </article>
       </footer>
